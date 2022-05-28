@@ -73,7 +73,7 @@
   color: black;
   font-size: 70px;
   font-weight: bold;
-  width: 900px;
+/*   width: 900px; */
   text-align: center;
 }
 
@@ -81,7 +81,7 @@
   color: white;
   font-size: 50px;
   font-weight: bold;
-  width: 885px;
+/*   width: 885px; */
   text-align: center;
   margin-top: 10px;
 }
